@@ -1,16 +1,31 @@
-## Hi there 👋
+# Olá, eu sou o Hiago Lucas! 👋
 
-<!--
-**Hiago-21/Hiago-21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante do 3º semestre de Ciência da Computação. Gosto muito de resolver problemas através do código e tirar ideias do papel, unindo lógica de programação com design funcional.
 
-Here are some ideas to get you started:
+### 👨‍💻 Sobre mim:
+- 🎓 Construindo uma base sólida em Algoritmos e Estruturas de Dados na faculdade.
+- 💻 Construindo meu portfólio: Foco em desenvolver e compartilhar projetos práticos bem estruturados, demonstrando meu potencial e minha capacidade de resolver problemas reais.
+- 🎮 Game Dev iniciante: Aplicando lógica de programação na criação de mecânicas e quebra-cabeças, com atualizações periódicas sobre os jogos que estou desenvolvendo.
+- 🎥 Documentando a jornada: Planejo compartilhar minha evolução de carreira, desafios em projetos e estudos através de conteúdos no YouTube e Instagram.
+- 🌱 **Aprendendo e evoluindo em:** Python, JavaScript, HTML, CSS e C.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Minha Stack e Ferramentas:
+
+**Linguagens & Web:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Game Dev & Design:**
+![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
+![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
+![CorelDRAW](https://img.shields.io/badge/CorelDRAW-03690B?style=for-the-badge&logo=coreldraw&logoColor=white)
+
+### 📈 Estatísticas do GitHub:
+![Minhas Estatísticas](https://github-readme-streak-stats.herokuapp.com/?user=Hiago-21&theme=dark&hide_border=true&background=0D1117)
+
+### 📬 Como me encontrar:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hiago-lucas-a7480b31b/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hiago.lucas.trabalho@gmail.com)
