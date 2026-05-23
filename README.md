@@ -24,7 +24,7 @@ Estudante do 3º semestre de Ciência da Computação. Gosto muito de resolver p
 ![CorelDRAW](https://img.shields.io/badge/CorelDRAW-03690B?style=for-the-badge&logo=coreldraw&logoColor=white)
 
 ### 📈 Estatísticas do GitHub:
-![Estatísticas do Wakapi](https://github-readme-stats-flame-xi-40.vercel.app/api/wakatime?username=Hiago&api_domain=wakapi.dev&layout=compact&theme=dark&bg_color=0D1117&hide_border=true&custom_title=Linguagens%20Mais%20Usadas&range=all_time)
+![Estatísticas do Wakapi](https://github-readme-stats-flame-xi-40.vercel.app/api/wakatime?username=Hiago&api_domain=wakapi.dev&bg_color=0D1117&title_color=f97316&text_color=fdba74&hide_border=true&custom_title=Linguagens%20Mais%20Usadas)
 
 ### 📬 Como me encontrar:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hiago-lucas-/)
