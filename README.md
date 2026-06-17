@@ -27,9 +27,9 @@ Estudante do 3º semestre de Ciência da Computação. Gosto muito de resolver p
 
 ### Estatísticas do GitHub:
 
-  <img src="https://github-readme-stats-flame-xi-40.vercel.app/api/top-langs?username=Hiago-21&layout=pie&theme=vue-dark&hide_border=true&bg_color=00000000&custom_title=Linguagens%20dos%20Repositórios" alt="Gráfico de Pizza" />
+ <img src="https://github-readme-stats-flame-xi-40.vercel.app/api/top-langs?username=Hiago-21&layout=pie&theme=vue-dark&hide_border=true&bg_color=00000000&custom_title=Linguagens%20dos%20Repositórios&v1" alt="Gráfico de Pizza" />
   <br>
-  <img src="https://github-readme-stats-flame-xi-40.vercel.app/api/wakatime?username=Hiago&api_domain=wakapi.dev&theme=vue-dark&hide_border=true&bg_color=00000000&custom_title=Linguagens%20Mais%20Usadas" alt="Estatísticas do Wakapi" />
+  <img src="https://github-readme-stats-flame-xi-40.vercel.app/api/wakatime?username=Hiago&api_domain=wakapi.dev&theme=vue-dark&hide_border=true&bg_color=00000000&custom_title=Linguagens%20Mais%20Usadas&langs_count=5" alt="Estatísticas do Wakapi" />
 
 
 ### Como me encontrar:
